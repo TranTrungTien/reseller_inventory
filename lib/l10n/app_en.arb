@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "appTitle": "Binly",
+  "todayTab": "Today",
+  "inventoryTab": "Inventory",
+  "scanTab": "Scan",
+  "binsTab": "Bins",
+  "moreTab": "More",
+  "searchHint": "Find an item, SKU or bin",
+  "createBin": "Create bin",
+  "noBins": "No bins yet.\nTry A01 for your first bin.",
+  "noItems": "No items yet.\nUse Turbo Intake to add your first item."
+}
